@@ -1,0 +1,17 @@
+{
+  "name": "gulp-obfuscate-minified",
+  "version": "1.0.0",
+  "description": "Mini workspace con gulp.js para JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "npx gulp start"
+  },
+  "author": "javiluli",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-javascript-obfuscator": "^1.1.6",
+    "gulp-rename": "^2.0.0",
+    "gulp-uglify": "^3.0.2"
+  }
+}
